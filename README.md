@@ -1,4 +1,4 @@
-<h1 align="center">Hello 👋, I'm Kyatramoni Rakesh</h1>
+<h1 align="center">Hi 👋, I'm Kyatramoni Rakesh</h1>
 <h3 align="center">Python Programmer | Full Stack Developer | Hyderabad, India</h3>
 
 - 🌱 I’m currently learning **New Technologies**

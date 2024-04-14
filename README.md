@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **rakesh.rk1306@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/19GJaMtkSSzUYK9rPwYGr4Y15tmJYpag-/view?usp=sharing](https://drive.google.com/file/d/19GJaMtkSSzUYK9rPwYGr4Y15tmJYpag-/view?usp=sharing)
+- 📄 Know about my experiences [https://drive.google.com/file/d/19GJaMtkSSzUYK9rPwYGr4Y15tmJYpag-/view?usp=sharing](https://drive.google.com/file/d/1kaF22YEOPFygRFf1QKBrHYRID1n87xMi/view?usp=drive_link)
 
 - ⚡ Fun fact **I find joy in debugging code and solving complex problems**
 

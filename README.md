@@ -1,7 +1,7 @@
 <h1 align="center">Hi👋,I'm Kyatramoni Rakesh</h1>
 <h3 align="center">Python  Programmer | Full Stack Developer| Hyderabad,India</h3>
 
-- 🌱 I’m currently learning **New Technologies**
+- 🌱 I’m currently learning  **New Technologies**
 
 - 👨‍💻 All of my projects are available at [https://github.com/KyatramoniRakesh](https://github.com/KyatramoniRakesh)
 
